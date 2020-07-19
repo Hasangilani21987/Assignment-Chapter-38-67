@@ -270,6 +270,21 @@
 
 
 
+
+//                                              Chapter # 53-58
+//                                               Question # 1
+
+
+// function showimage(a) {
+//     var modalimg = document.getElementById('modalimg')
+//     modalimg.src = a.src
+// }
+
+
+
+//  --------------------------------------------------END-------------------------------------------------
+
+
 //                                              Chapter # 58-67
 //                                               Question # 1
 //                                                  part 1

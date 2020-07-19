@@ -61,3 +61,16 @@ button:hover {
     width: 30%;
   }
 }
+
+.modal-body {
+  overflow: hidden !important;
+}
+
+.large {
+  width: 470px !important;
+}
+
+.close {
+  background-color: #4CAF50 !important;
+  width: 300px !important;
+}
